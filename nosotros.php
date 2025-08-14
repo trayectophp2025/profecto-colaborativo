@@ -1,0 +1,2 @@
+<h1>Nosotros</h1>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae iusto possimus id repudiandae aut libero molestiae dolor distinctio. Assumenda corrupti odit quia optio incidunt laudantium voluptatum nemo voluptatem cupiditate dolor!</p>
